@@ -14,13 +14,16 @@
 [<img src='https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white' alt='Rust' height='40'>](https://www.rust-lang.org/)
 
 
-## 🛠️ Tools I Use
+## 🛠️ Tools I Use/Have Used
 [<img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt='Windows' height='40'>](https://www.microsoft.com/windows)
 [<img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' alt='Git' height='40'>](https://git-scm.com/)
 [<img src='https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white' alt='VS Code' height='40'>](https://code.visualstudio.com/)
 [<img src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white' alt='GitHub' height='40'>](https://github.com/)
 [<img src='https://img.shields.io/badge/WSL-333333?style=for-the-badge&logo=linux&logoColor=white' alt='WSL' height='40'>](https://learn.microsoft.com/en-us/windows/wsl/)
 [<img src='https://img.shields.io/badge/Jupyter-FFCA3A?style=for-the-badge&logo=jupyter&logoColor=white' alt='Jupyter' height='40'>](https://jupyter.org/)
+[<img src='https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white' alt='Raspberry Pi' height='40'>](https://www.raspberrypi.org/)  
+[<img src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white' alt='Arduino' height='40'>](https://www.arduino.cc/)  
+
 
 
 ## 🕹 My Clubs and Societies
