@@ -21,8 +21,7 @@
 [<img src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white' alt='GitHub' height='40'>](https://github.com/)
 [<img src='https://img.shields.io/badge/WSL-333333?style=for-the-badge&logo=linux&logoColor=white' alt='WSL' height='40'>](https://learn.microsoft.com/en-us/windows/wsl/)
 [<img src='https://img.shields.io/badge/Jupyter-FFCA3A?style=for-the-badge&logo=jupyter&logoColor=white' alt='Jupyter' height='40'>](https://jupyter.org/)
-[<img src='https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white' alt='Raspberry Pi' height='40'>](https://www.raspberrypi.org/)  
-[<img src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white' alt='Arduino' height='40'>](https://www.arduino.cc/)  
+[<img src='https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white' alt='Raspberry Pi' height='40'>](https://www.raspberrypi.org/)  [<img src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white' alt='Arduino' height='40'>](https://www.arduino.cc/)  
 
 
 
