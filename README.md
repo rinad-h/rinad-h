@@ -31,6 +31,17 @@
 
 
 ## 🌐 Reach Out to Me Here!
-[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/rinad-h)
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/rinad-hamid-abb6252aa/)
+  [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/rinad-h)
+  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/rinad-hamid-abb6252aa/)
+</div>
+
+
+<!-- GitHub Top Languages -->
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinad-h&show_icons=true&theme=dark&locale=en&layout=compact" alt="rinad-h" /></p>
+</div>
+
+<!-- Reach Out to Me -->
+<div>
+
 
