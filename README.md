@@ -9,9 +9,15 @@
 [<img src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white' alt='C' height='40'>](https://en.cppreference.com/w/c)
 [<img src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white' alt='C++' height='40'>](https://en.cppreference.com/w/)
 [<img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white' alt='Python' height='40'>](https://www.python.org/)
+[<img src='https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white' alt='Java' height='40'>](https://www.oracle.com/java/)
+[<img src='https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='JavaScript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src='https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML' height='40'>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src='https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='CSS' height='40'>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' height='40'>](https://dev.mysql.com/doc/)
 [<img src='https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white' alt='PostgreSQL' height='40'>](https://www.postgresql.org/)
 [<img src='https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white' alt='Rust' height='40'>](https://www.rust-lang.org/)
+
+
 
 
 ## 🛠️ Tools I Use/Have Used
@@ -19,6 +25,8 @@
 [<img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' alt='Git' height='40'>](https://git-scm.com/)
 [<img src='https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white' alt='VS Code' height='40'>](https://code.visualstudio.com/)
 [<img src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white' alt='GitHub' height='40'>](https://github.com/)
+[<img src='https://img.shields.io/badge/Compute_Canada-0078D7?style=for-the-badge&logo=DigitalOcean&logoColor=white' alt='Compute Canada' height='40'>](https://alliancecan.ca/)
+[<img src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='React' height='40'>](https://reactjs.org/)
 [<img src='https://img.shields.io/badge/WSL-333333?style=for-the-badge&logo=linux&logoColor=white' alt='WSL' height='40'>](https://learn.microsoft.com/en-us/windows/wsl/)
 [<img src='https://img.shields.io/badge/Jupyter-FFCA3A?style=for-the-badge&logo=jupyter&logoColor=white' alt='Jupyter' height='40'>](https://jupyter.org/)
 [<img src='https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white' alt='Raspberry Pi' height='40'>](https://www.raspberrypi.org/)  [<img src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white' alt='Arduino' height='40'>](https://www.arduino.cc/)  
