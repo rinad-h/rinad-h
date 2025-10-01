@@ -1,5 +1,5 @@
 ## Hi I'm Rinad 👋
-- 🎓 Education | I’m a second-year Software Engineering student at the University of Calgary, minoring in Entrepreneurship and Enterprise Development.
+- 🎓 Education | I’m a third-year Software Engineering student at the University of Calgary, minoring in Entrepreneurship and Enterprise Development.
 - 🤖 Tech Enthusiast | I’m passionate about artificial intelligence, machine learning, and cloud computing, and I’m always looking to explore new advancements in these fields.
 - 🚀 Team Member at CalgaryToSpace | As part of the software subteam, I contribute to student led CubeSat development projects.
 - 🎨 My Hobbies and Interests | In my spare time, I enjoy building LEGO sets, reading novels, and baking.
